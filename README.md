@@ -1,4 +1,4 @@
-<h1>CEH Lab 7</h1>
+<h1>Malware Threats - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-7/blob/714eaa9d696d63aa4e9addb52448da001faf14ee/Lab7-1.png)
